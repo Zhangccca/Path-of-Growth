@@ -16,7 +16,7 @@ while($ii < 20){
 	}$ii++;
 }
 
-echo 'do...while输出小于20的奇数';
+echo 'do...while循环输出小于20的奇数';
 $iii=0;
 do{
 	if($iii % 2 ==1)
